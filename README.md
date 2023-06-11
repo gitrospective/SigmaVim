@@ -4,7 +4,7 @@ A sophisticated Nvim IDE
 ## Installation
 First Install Packer
 ```shell
-git clone https://github.com/wbthomason/packer.nvim "$env:LOCALAPPDATA\nvim-data\site\pack\packer\start\packer.nvim"
+git clone https://github.com/wbthomason/packer.nvim  ~/.local/share/nvim/site/pack/packer/start/packer.nvim
 ```
 After that clone the directory like so
 
